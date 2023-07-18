@@ -30,5 +30,5 @@ public class Main {
             station.check(null, null, truck);
             station.check(null, null, truck2);
         }
-    }
+
 }
